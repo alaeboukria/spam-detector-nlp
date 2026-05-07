@@ -15,8 +15,5 @@ Ce projet est un système d'analyse textuelle conçu pour identifier et filtrer 
 2. Entraînement d'un modèle de classification pour différencier les messages légitimes des menaces.
 3. Qualification des requêtes suspectes avec un score de probabilité.
 
-## 🚀 Comment ça marche ?
-*(Tu pourras ajouter ici plus tard comment lancer ton script sur une machine, ex: `python main.py`)*
 
----
 *Ce projet a été développé par Alae-Eddine Boukria - Élève Ingénieur en Sécurité Informatique & Réseaux à l'ENSA Fès.*
