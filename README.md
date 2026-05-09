@@ -7,7 +7,7 @@ Ce projet est un système d'analyse textuelle conçu pour identifier et filtrer 
 
 ## 🛠️ Technologies Utilisées
 * **Langage :** Python
-* **Machine Learning & NLP :** NLTK, Scikit-learn, Pandas (à adapter selon ce que tu as vraiment utilisé)
+* **Machine Learning & NLP :** NLTK, Scikit-learn, Pandas 
 * **Concepts :** Classification de texte, Tokenization, Analyse de fréquence
 
 ## ⚙️ Fonctionnalités Principales
